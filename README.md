@@ -1,10 +1,24 @@
 # javascript30
-Vanilla JavaScript challenge by @wesbos
+Vanilla JavaScript challenge by [@wesbos](https://github.com/wesbos) 
 
 ## disclaimer
 
-So wesbos (https://github.com/wesbos) created this little vanilla javascript challenge (https://github.com/wesbos/JavaScript30) so that you write vanilla js every day... whatevs I picked it up cuz it sounds kinda cool so here will be my progress.
+So [@wesbos](https://github.com/wesbos) created this little [vanilla javascript challenge](https://github.com/wesbos/JavaScript30) so that you write vanilla js every day... whatevs I picked it up cuz it sounds kinda cool so here will be my progress.
 
-### 01 JavaScript Drum Kit
+# 01 JavaScript Drum Kit
+> started & completed: 9/12/2016
+> last updated: 9/12/2016
 
-Very cool challenge. Currently in progress;
+DEMO ONLINE [01 JavaScript Drum Kit](http://ympek.net/js30/01_drumkit/)
+
+Very cool challenge. I started out myself, but consulted few steps with the video.
+
+##### things I learned:
+
+- a little bit of html Media Element API (audio.currentTime)
+- <kbd> tag ;o
+- some es6 stuff (backticks - string templates, const/let, arrow functions)
+
+##### differences from original solution
+- my buttons are significally uglier
+- I ADDED COWBELL!!!!!!!!!!

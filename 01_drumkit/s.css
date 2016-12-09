@@ -38,4 +38,10 @@ body, html {
     margin: 20px;
     border-radius: 50%;
     cursor: pointer;
+    transition: all 0.11s;
+}
+
+.key.playing {
+    background: #46f979;
+    transform: scale(1.1);
 }
