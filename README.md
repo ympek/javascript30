@@ -13,13 +13,13 @@ DEMO ONLINE [01 JavaScript Drum Kit](http://ympek.net/js30/01_drumkit/)
 
 Very cool challenge. I started out myself, but consulted few steps with the video.
 
-##### things I learned:
+#### things I learned:
 
 - a little bit of html Media Element API (audio.currentTime)
-- <kbd> tag ;o
+- kbd html tag ;o
 - some es6 stuff (backticks - string templates, const/let, arrow functions)
 
-##### differences from original solution
+#### differences from original solution
 - my buttons are significally uglier
 - I ADDED COWBELL!!!!!!!!!!
 
@@ -31,9 +31,9 @@ DEMO ONLINE [02 JS + CSS Clock](http://ympek.net/js30/02_clock/)
 
 That was pretty straightforward.
 
-##### things I learned:
+#### things I learned:
 
 - developer tools have cubic-bezier timing function editor - I didn't knew that, VERY cool!
 
-##### differences from original solution
+#### differences from original solution
 - fixed weird seconds hand transition when starting new cycle
