@@ -22,3 +22,18 @@ Very cool challenge. I started out myself, but consulted few steps with the vide
 ##### differences from original solution
 - my buttons are significally uglier
 - I ADDED COWBELL!!!!!!!!!!
+
+# 02 JS + CSS Clock
+> started & completed: 10/12/2016
+> last updated: 10/12/2016
+
+DEMO ONLINE [02 JS + CSS Clock](http://ympek.net/js30/02_clock/)
+
+That was pretty straightforward.
+
+##### things I learned:
+
+- developer tools have cubic-bezier timing function editor - I didn't knew that, VERY cool!
+
+##### differences from original solution
+- fixed weird seconds hand transition when starting new cycle
