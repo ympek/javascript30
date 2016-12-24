@@ -16,7 +16,7 @@ Very cool challenge. I started out myself, but consulted few steps with the vide
 ##### things I learned:
 
 - a little bit of html Media Element API (audio.currentTime)
-- <kbd> tag ;o
+- kbd tag ;o
 - some es6 stuff (backticks - string templates, const/let, arrow functions)
 
 ##### differences from original solution
@@ -58,3 +58,15 @@ I already noticed that clearly wesbos does not give a fuck about M$ browsers and
 ##### differences from original solution
 
 - even though the code doesn't differ, the color input in my browser (ff) was not firing mousemove event, so color change in my case was not smooth. I see Safari handles it differently, but I won't investigate it further for now.
+
+# 04 Array Cardio Day
+> started & completed: 24/12/2016
+> last updated: 24/12/2016
+
+So it's basically a lesson about iterators like map, reduce, filter etc. Cool to see them in action. 
+
+##### things I learned:
+- I finally got reduce
+
+##### differences from original solution
+- none
