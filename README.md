@@ -70,3 +70,18 @@ So it's basically a lesson about iterators like map, reduce, filter etc. Cool to
 
 ##### differences from original solution
 - none
+
+# 05 Flex Panels Image Gallery
+> started & completed: 13/01/2017
+> last updated: 13/01/2017
+
+DEMO ONLINE [05 Flex Panels Image Gallery](http://ympek.net/js30/05_flexpanels/)
+
+
+I got my shit together after finishing classes and returned to this tutorials. Now I've finally picked up flexbox thanks to this lesson and I am doing pretty well so far. Excited with this cool technique. This time i've watched thorought the whole video without coding, then sat back and coded my solution.
+
+##### things I learned:
+- fundamental flexbox concepts
+
+##### differences from original solution
+- some minor differences
