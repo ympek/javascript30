@@ -9,7 +9,7 @@ So [@wesbos](https://github.com/wesbos) created this little [vanilla javascript 
 > started & completed: 9/12/2016
 > last updated: 9/12/2016
 
-DEMO ONLINE [01 JavaScript Drum Kit](http://ympek.net/js30/01_drumkit/)
+DEMO ONLINE [01 JavaScript Drum Kit](http://demos.ympek.net/js30/01_drumkit/)
 
 Very cool challenge. I started out myself, but consulted few steps with the video.
 
@@ -27,7 +27,7 @@ Very cool challenge. I started out myself, but consulted few steps with the vide
 > started & completed: 10/12/2016
 > last updated: 10/12/2016
 
-DEMO ONLINE [02 JS + CSS Clock](http://ympek.net/js30/02_clock/)
+DEMO ONLINE [02 JS + CSS Clock](http://demos.ympek.net/js30/02_clock/)
 
 That was pretty straightforward.
 
@@ -42,7 +42,7 @@ That was pretty straightforward.
 > started & completed: 11/12/2016
 > last updated: 11/12/2016
 
-DEMO ONLINE [03 JS + Playing with CSS Variables and JS](http://ympek.net/js30/03_cssvars/)
+DEMO ONLINE [03 JS + Playing with CSS Variables and JS](http://demos.ympek.net/js30/03_cssvars/)
 
 I already noticed that clearly wesbos does not give a fuck about M$ browsers and he pursues fairly modern web development practices. I stopped to wonder for a while if that's good or a bad thing but eventually I decided to stick with it as it is something I haven't experienced in my day job where I was to care about even poor IE11... so yeah let's learn all this shiny new stuff. This particular excercise got me checking [caniuse](http://caniuse.com) all the time.
 
@@ -75,7 +75,7 @@ So it's basically a lesson about iterators like map, reduce, filter etc. Cool to
 > started & completed: 13/01/2017
 > last updated: 13/01/2017
 
-DEMO ONLINE [05 Flex Panels Image Gallery](http://ympek.net/js30/05_flexpanels/)
+DEMO ONLINE [05 Flex Panels Image Gallery](http://demos.ympek.net/js30/05_flexpanels/)
 
 
 I got my shit together after finishing classes and returned to this tutorials. Now I've finally picked up flexbox thanks to this lesson and I am doing pretty well so far. Excited with this cool technique. This time i've watched thorought the whole video without coding, then sat back and coded my solution.
